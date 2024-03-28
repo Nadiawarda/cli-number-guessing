@@ -1,6 +1,6 @@
 {
-  "name": "ms05cli-number-guessing",
-  "version": "1.0.1",
+  "name": "nadia05cli-number-guessing",
+  "version": "1.2.1",
   "description": "this is a number guessing game.",
   "main": "index.js",
   "type": "module",
