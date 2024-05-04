@@ -4,7 +4,7 @@
   "description": "this is a number guessing game.",
   "main": "index.js",
   "type": "module",
-  "bin": "main.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
